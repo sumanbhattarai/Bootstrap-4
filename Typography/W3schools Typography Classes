@@ -1,0 +1,22 @@
+.font-weight-bold 	Bold text 	
+.font-italic 	Italic text 	
+.font-weight-light 	Light weight text 	
+.font-weight-normal 	Normal text 	
+.lead 	Makes a paragraph stand out 	
+.small 	Indicates smaller text (set to 85% of the size of the parent) 	
+.text-left 	Indicates left-aligned text 	
+.text-*-left 	Indicates left-aligned text on small, medium, large or xlarge screens 	
+.text-center 	Indicates center-aligned text 	
+.text-*-center 	Indicates center-aligned text on small, medium, large or xlarge screens 	
+.text-right 	Indicates right-aligned text 	
+.text-*-right 	Indicates right-aligned text on small, medium, large or xlarge screens 	
+.text-justify 	Indicates justified text 	
+.text-monospace 	Monospaced text 	
+.text-nowrap 	Indicates no wrap text 	
+.text-lowercase 	Indicates lowercased text 	
+.text-uppercase 	Indicates uppercased text 	
+.text-capitalize 	Indicates capitalized text 	
+.initialism 	Displays the text inside an <abbr> element in a slightly smaller font size 	
+.list-unstyled 	Removes the default list-style and left margin on list items (works on both <ul> and <ol>). This class only applies to immediate children list items (to remove the default list-style from any nested lists, apply this class to any nested lists as well) 	
+.list-inline 	Places all list items on a single line (used together with .list-inline-item on each <li> elements) 	
+.pre-scrollable 	Makes a <pre> element scrollable
